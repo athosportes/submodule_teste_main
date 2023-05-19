@@ -1,0 +1,3 @@
+[submodule "src/global/themes"]
+	path = src/global/themes
+	url = git@github.com:athosportes/token_repository.git
