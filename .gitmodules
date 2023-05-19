@@ -1,3 +1,0 @@
-[submodule "git@github.com:athosportes/submodule_teste_main.git"]
-	path = src/theme
-	url = git@github.com:athosportes/token_repository.git
