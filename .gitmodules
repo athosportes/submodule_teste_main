@@ -1,0 +1,3 @@
+[submodule "git@github.com:athosportes/submodule_teste_main.git"]
+	path = git@github.com:athosportes/submodule_teste_main.git
+	url = git@github.com:athosportes/token_repository.git
